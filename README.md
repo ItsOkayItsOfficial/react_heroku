@@ -1,10 +1,10 @@
-# Create React Express App
+# React Express App Deployed on Heroku
 
-## About This Boilerplate
+## About
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+This setup allows for a Node/Express/React app then deployed to Heroku.
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+The front-end React app auto-reloads as it's updated via webpack dev server, and the backend Express app auto-reloads independently with nodemon.
 
 ## Starting the app locally
 
